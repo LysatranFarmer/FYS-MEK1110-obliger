@@ -47,3 +47,9 @@ fig['layout']['yaxis1']['title']='fart (m/s)'; fig['layout']['yaxis2']['title']=
 
 
 fig.show()
+
+"""
+Kjøreeksempel:
+>> Python oblig1_før_j.py
+Et vindu åpnes i nettleseren med 3 grafer, en for fart, en for akselerasjon og en for avstand som sprinteren har løpt
+"""
